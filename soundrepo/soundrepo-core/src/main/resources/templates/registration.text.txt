@@ -1,0 +1,7 @@
+${nick}, welcome to SoundRepo!
+
+Your login is: ${email}
+Your password is: ${password}
+
+You can login to SoundRepo at ${url}
+
